@@ -1,5 +1,7 @@
+// Program to demonstrate various operators.
+
 import java.util.Scanner;
-class assign3
+class operator
 {
 	public static void main(String args[])
 	{
