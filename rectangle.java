@@ -1,7 +1,7 @@
 
 
 import java.util.*;  
-class assign2B 
+class rectangle 
 {
 	public static void main(String args[]) 
 	{
