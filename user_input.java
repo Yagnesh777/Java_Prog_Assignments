@@ -1,7 +1,7 @@
 
 
 import java.util.*;  
-class assign2A 
+class user_input 
 {
 	public static void main(String args[]) 
 	{
