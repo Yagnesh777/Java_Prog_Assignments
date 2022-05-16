@@ -24,6 +24,7 @@ public class seq_of_prime {
 			else {  //for restoring the value of temp to 0
 				temp=0;
 			}
+			//Instead of else block u can declare the 'temp' variable in local scope
 			
 		}
 
