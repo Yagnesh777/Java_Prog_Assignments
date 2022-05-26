@@ -30,7 +30,6 @@ class Accept {
 		
 		return numbers;
 	}
-	
 }
 
 
@@ -110,7 +109,5 @@ public class hybrid_inheritance {
 		Fibonacci obj2 = new Fibonacci();
 		obj2.fibo();
 		
-
 	}
-
 }
