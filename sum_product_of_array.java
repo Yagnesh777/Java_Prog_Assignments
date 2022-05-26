@@ -1,3 +1,6 @@
+
+//Program to print sum/product of array elements
+
 package array;
 
 import java.util.Scanner;
