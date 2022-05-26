@@ -1,3 +1,6 @@
+
+//Program to print pyramid of stars based on row no. given by user.
+
 package java_loop;
 
 import java.util.Scanner;
