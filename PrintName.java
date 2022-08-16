@@ -1,3 +1,4 @@
+/*Program to print full name of user in abbrevation*/
 import java.util.Scanner;
 public class PrintName
 {
